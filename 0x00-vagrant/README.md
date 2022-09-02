@@ -1,2 +1,1 @@
-#!/bin/bash
-**Strong** __Strong__
+strong
